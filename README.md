@@ -1,3 +1,5 @@
 # Deep-Learning
 
-Backpropagation algorithm in Neural Network
+- Multi-Layer Perceptron (MLP)
+- Backpropagation algorithm in Neural Network
+- Evolutionary Computation - Genetic Algorithm
